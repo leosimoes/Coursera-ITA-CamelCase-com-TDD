@@ -1,4 +1,4 @@
-# Camelcase com TDD
+# CamelCase com TDD
 Trabalho dos cursos "TDD – Desenvolvimento de software guiado por testes" e "Introdução ao Teste de Software" oferecidos, respectivamente, pelo ITA e USP através do Coursera.
 
 # Execução
@@ -9,4 +9,6 @@ Os arquivos `Coursera - ITA - Descrição da implementação CamelCase com TDD.p
 
 
 ## Licença
-Copyright 2019 Leonardo Simões	
+MIT License
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
